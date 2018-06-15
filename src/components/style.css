@@ -1,0 +1,9 @@
+.dropZoneElement {
+            position: relative;
+            display: inline-block;
+            background-color: #f8f8f8;
+            border: 1px solid #c7c7c7;
+            width: 230px;
+            height: 110px;
+            text-align: center;
+        }
