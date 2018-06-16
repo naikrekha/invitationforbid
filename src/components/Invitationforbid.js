@@ -12,6 +12,9 @@ var eventHandlers = { addedfile: (file) => console.log(file) ,thumbnail: null}
 
 var componentConfig = { postUrl: 'no-url' ,processQueue:'false'};
 
+/*
+* inviatation for bid class
+*/
 export default class Invitationforbid extends Component {
   render() {
     return (
